@@ -1,3 +1,6 @@
+# AS OF 2022-12-06, all usages of this fork/release repo should have been removed by https://github.com/drud/ddev/pull/4434
+# So this repo will be archived.
+
 # mkcert
 
 mkcert is a simple tool for making locally-trusted development certificates. It requires no configuration.
